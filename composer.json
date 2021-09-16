@@ -1,0 +1,17 @@
+{
+    "name": "Catname\/weather",
+    "description": "A test weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "catname",
+            "email": "tomcath@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Catname\\Weather\\": "src"
+        }
+    }
+}
